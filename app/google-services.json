@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "887300877760",
+    "project_id": "recipee-6a1db",
+    "storage_bucket": "recipee-6a1db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887300877760:android:0e685156e621e37194ac25",
+        "android_client_info": {
+          "package_name": "com.example.Kishanfoodies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4YzqISF5sCx6EGOh4h912wK73C2-mrF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

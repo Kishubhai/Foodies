@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".PrivacyActivity">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Foddies Terms and Conditions of Use"
+        android:textSize="20sp"
+        android:fontFamily="@font/poppins"
+        android:layout_marginTop="16dp"
+        android:layout_marginStart="12dp"/>
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="▪ By accessing or using the Foddies App, you agree to comply with and be bound by these terms and conditions.\n"
+        android:textSize="16sp"
+        android:fontFamily="@font/poppins_light"
+        android:layout_marginStart="12dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="▪ The App provides recipes and related content for informational purposes only.\n"
+        android:textSize="16sp"
+        android:fontFamily="@font/poppins_light"
+        android:layout_marginStart="12dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="▪ Users are responsible for ensuring the accuracy of ingredients, measurements, and cooking instructions.\n"
+        android:textSize="16sp"
+        android:fontFamily="@font/poppins_light"
+        android:layout_marginStart="12dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="▪ Foddies is not liable for any adverse reactions or consequences resulting from the use of the provided recipes.\n"
+        android:textSize="16sp"
+        android:fontFamily="@font/poppins_light"
+        android:layout_marginStart="12dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="▪ Users agree not to engage in any activity that disrupts or interferes with the proper functioning of the App.\n"
+        android:textSize="16sp"
+        android:fontFamily="@font/poppins_light"
+        android:layout_marginStart="12dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="▪ Users shall not upload, post, or transmit any content that is unlawful, defamatory, or infringes on the rights of others.\n"
+        android:textSize="16sp"
+        android:fontFamily="@font/poppins_light"
+        android:layout_marginStart="12dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="▪ The App and its content are protected by intellectual property laws.\n"
+        android:textSize="16sp"
+        android:fontFamily="@font/poppins_light"
+        android:layout_marginStart="12dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="▪ Users may not reproduce, distribute, or modify any part of the App without explicit permission.\n"
+        android:textSize="16sp"
+        android:fontFamily="@font/poppins_light"
+        android:layout_marginStart="12dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="▪ The App may contain links to third-party websites or services.\n"
+        android:textSize="16sp"
+        android:fontFamily="@font/poppins_light"
+        android:layout_marginStart="12dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="▪ Foodies is not responsible for the content or privacy practices of external sites.\n"
+        android:textSize="16sp"
+        android:fontFamily="@font/poppins_light"
+        android:layout_marginStart="12dp"/>
+
+</LinearLayout>
+</ScrollView>
